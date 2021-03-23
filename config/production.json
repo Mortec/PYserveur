@@ -1,0 +1,15 @@
+{
+    "jwtPrivateKey": "QDkYzu5U73SWcEXFdUMEqtMwxY6Kiptv",
+    "allowOrigin": "http://ec2-54-209-22-20.compute-1.amazonaws.com",
+    "API_URL": "http://ec2-54-209-22-20.compute-1.amazonaws.com",
+    "cookieDomain": "",
+    "db": {
+      "username": "yoga",
+      "password": "Student123%",
+      "database": "yoga",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "port": "3306"
+    }
+  }
+  

@@ -1,0 +1,12 @@
+{
+  "jwtPrivateKey": "yoga_jwtPrivateKey",
+  "cookieDomain": "",
+  "db": {
+    "username": "yoga_db_username",
+    "password": "yoga_db_password",
+    "database": "yoga_db_database",
+    "host": "yoga_db_host",
+    "dialect": "yoga_db_dialect",
+    "port": "yoga_db_port"
+  }
+}

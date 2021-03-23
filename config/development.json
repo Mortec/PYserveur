@@ -1,0 +1,15 @@
+{
+    "jwtPrivateKey": "QDkYzu5U73SWcEXFdUMEqtMwxY6Kiptv",
+    "allowOrigin": "http://localhost:3000",
+    "API_URL": "http://jeremi-trocme.vpnuser.oclock.io:3001",
+    "cookieDomain": "",
+    "db": {
+      "username": "yogaserver",
+      "password": "yoga",
+      "database": "yoga_dev",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "port": "3306"
+    }
+  }
+  
